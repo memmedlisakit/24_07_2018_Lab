@@ -1,0 +1,11 @@
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\bin\Debug\UserRegistiration.exe.config
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\bin\Debug\UserRegistiration.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\bin\Debug\UserRegistiration.pdb
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.Form1.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.Properties.Resources.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.csproj.GenerateResource.Cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.pdb
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\UserRegistiration\UserRegistiration\obj\Debug\UserRegistiration.AllUsers.resources
